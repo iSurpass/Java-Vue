@@ -42,7 +42,7 @@
             </div>
             <div class="level-moblie" style="margin-top:10px">
                 <div class="level-left">
-                    <img class="image is-16x16" src=">
+                    <img class="image is-16x16" src="">
                     <span>本店支持开发票，开票金额100元起</span>
                 </div>
             </div>

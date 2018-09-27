@@ -2,7 +2,7 @@
     <article class="media">
         <div class="media-left">
             <figure class="image is-96x96">
-                <img src="https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=3216877797,4210662466&fm=26&gp=0.jpg">
+                <img src="">
             </figure>
         </div>
         <div class="media-content" style="font-size:12px">

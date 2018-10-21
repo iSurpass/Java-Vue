@@ -1,16 +1,17 @@
 <template>
   <div id="app">
-    <MerchantListItem/>
+    <MerchantList/>
   </div>
 </template>
 
 <script>
-import MerchantListItem from './components/merchantlist/components/merchantListItem'
+import MerchantList from './components/merchantlist/Page.vue';
+
 
 export default {
   name: 'app',
   components: {
-    MerchantListItem
+    MerchantList
   }
 }
 </script>
